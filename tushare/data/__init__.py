@@ -1,1 +1,1 @@
-__version__ = "0.0.1"
+https://github.com/mohitmakda/TuShare.git
